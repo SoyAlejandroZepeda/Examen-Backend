@@ -1,0 +1,11 @@
+# Carpetas
+/node_modules
+
+# Archivos
+package-lock.json
+
+# Variables
+variables.env
+
+# Archivos MAC
+.DS_Store
